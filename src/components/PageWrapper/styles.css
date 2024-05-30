@@ -1,0 +1,6 @@
+.page_wrapper {
+  margin: 16px 10vw 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

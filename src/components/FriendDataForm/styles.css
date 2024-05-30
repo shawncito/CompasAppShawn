@@ -1,0 +1,17 @@
+.friend-data-form-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.friend-data-form-text-fields {
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+}
+
+.Buttons {
+  display: flex;
+  gap: 8px;
+  justify-content: left;
+}
